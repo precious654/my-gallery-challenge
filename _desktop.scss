@@ -1,0 +1,30 @@
+@import 'config';
+
+@media (min-width: 1200px) {
+
+  header{
+
+   img{
+     margin-inline-start: 660px;
+   }
+
+   .bolder{
+     margin-inline-start: 650px;
+   }
+
+   .smaller{
+     margin-inline-start: 689px;
+   }
+
+   .information{
+     margin-inline-start: 580px;
+   }
+
+  }
+
+  section{
+    inline-size: 900px;
+    margin-inline-start: 320px;
+    margin-block-start: 30px;
+  }
+}
