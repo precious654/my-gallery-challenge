@@ -71,4 +71,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@PreciousCode](https://github.com/precious654)
-- Twitter [@sacredshottr](https://twitter.com/sacredshott)
+- Twitter [@sacredshott](https://twitter.com/sacredshott)
